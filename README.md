@@ -2,6 +2,7 @@
 
 This tutorial will go through the development, with Vantiq solution, of a **real-time business application** using IoT data coming from Live Objects, and enabling **human-to-machine collaboration**
 
+A presentation of Vantiq real-time business application development platform can be found on the following [link](https://youtu.be/Y0ZS-RYQF68) 
 
 ## Introduction
 
@@ -21,7 +22,7 @@ State of the room can be
 If temperature gets above -15°C during more than a certain time, the application will trigger a collaboration to inform controllers that might be able to correct the problem rapidly.  
 If the controllers are not able to correct the situation, a mail will be sent to the chief of service , to inform him that a problem occurred, was not resolved by the controller and the stock of products may be out of order.
 
-
+![](img/TutorialIntro.png)
 
 ## Vantiq Account
 
