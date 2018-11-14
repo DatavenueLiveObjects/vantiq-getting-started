@@ -62,5 +62,5 @@ then click on Register
 
 
 In Routing keys tab, click on “Add”.  
-Fill the routing key filter with “~event.v1.data.new.#”, for the targetFifo you just created. (All data coming to LiveObjects will be forwarded on the Fifo).  
+Fill the routing key filter with “~event.v1.data.new.#”, for the targetFifo you just created. (All data coming to Live Objects will be forwarded on the Fifo).  
 Then Click on “Create Binding”.
