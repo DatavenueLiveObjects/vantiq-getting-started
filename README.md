@@ -1,3 +1,5 @@
+Copyright Orange - 2019 - Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) - https://creativecommons.org/licenses/by-sa/3.0/
+
 # Vantiq & Live Objects Tutorial Introduction
 
 This tutorial will go through the development, with Vantiq solution, of a **real-time business application** using IoT data coming from Live Objects, and enabling **human-to-machine collaboration**
