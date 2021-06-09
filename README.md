@@ -1,3 +1,5 @@
+Be careful, this guide is deprecated
+
 Copyright Orange - 2019 - Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) - https://creativecommons.org/licenses/by-sa/3.0/
 
 # Vantiq & Live Objects Tutorial Introduction
